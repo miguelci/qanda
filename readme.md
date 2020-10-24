@@ -11,7 +11,7 @@ After finishing the previous step you can run:
 ## To run the app inside  php docker container
 
 - `docker-compose exec php sh` - This command will put inside the container, where you'll be able to execute the code
-which is connect already to a mysql database.
+which is connected already to a mysql database.
 
 - `php artisan qanda:interactive` - this will start the Q/A app
 
